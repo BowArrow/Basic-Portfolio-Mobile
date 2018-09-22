@@ -210,39 +210,39 @@ a:link, a:visited, a:hover, a:active{
     height: 200px;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 768px) {
     .column, input[type=submit]{
         width: 100%;
         margin-top: 0;
     }
 
     .container{
-        width:600px;
+        width: 100%;
     }
 
     .navContainer{
-        width: 600px;
+        width: 100%;
     }
 
     .grid-container img{
-        width: 530px;
+        width: 85%;
         margin-right: 0;
     }
 
     .grid-container{
-        width: 530px;
+        width: 85%;
     }
 
     .box-text{
-        width: 100%;
+        width: 85%;
     }
     
     .hclass{
-        width: 530px;
+        width: 85%;
     }
 
     .aboutMe{
-        width: 530px;
+        width: 85%;
     }
 
 }
