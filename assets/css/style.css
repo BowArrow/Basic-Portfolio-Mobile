@@ -116,7 +116,8 @@ footer{
     box-shadow: 1px 3px 3px #efefef;
     border-top: 2px solid #4aaaa5;
     height: 50px;
-    line-height: 1px;;
+    line-height: 1px;
+    margin-top: 50px;
 }
 
 h3, h2 {
